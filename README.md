@@ -1,5 +1,7 @@
 GlobalRoam - Your Ultimate Travel Companion 🌍🧳
 
+Live Demo : - https://sakshi3529.github.io/GlobaRoam/
+
 Welcome to GlobalRoam, a captivating static travel website designed to ignite wanderlust and facilitate seamless trip planning. This project aims to provide travelers with comprehensive destination guides, customizable trip planners, and a visually appealing user experience. GlobalRoam empowers travelers with visual inspiration and practical tools to make every journey unforgettable.
 
 ![image](https://github.com/SAKSHI3529/GlobaRoam/assets/136685116/ca049c9a-c6ce-4fec-b447-c64f6c719da9)
